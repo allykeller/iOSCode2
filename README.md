@@ -5,6 +5,13 @@ Parsons School of Design - Code 2 Class - Yuri G.
 
 Checking this updated text 
 
+```
+
+Break Up Space with Formatting 
+🐶🐱🦊🐯🐰🙈🦁
+
+```
+
 
 
 
